@@ -1,4 +1,4 @@
 # stpd-projects-love2d
 
 roads and dots 
-![roads-and-dots](https://github.com/egorchernykh/stpd-projects-love2d/blob/main/gifs/roads-dots.gif)
+<img src="[/images/output/video1.gif](https://github.com/egorchernykh/stpd-projects-love2d/blob/main/gifs/roads-dots.gif)" width="250" height="250"/>
