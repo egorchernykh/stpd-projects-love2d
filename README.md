@@ -1,3 +1,4 @@
 # stpd-projects-love2d
 
-микро проектики
+## roads and dots 
+![](https://github.com/egorchernykh/stpd-projects-love2d/blob/main/gifs/roads-dots.gif)
